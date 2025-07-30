@@ -1,7 +1,9 @@
+![logo](https://github.com/Tnihal94/Tnihal94/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Tekchand Nihal</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/cc8c892e-9127-48ab-a066-8d694339ee89"/>
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
+"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnihal94&label=Profile%20views&color=0e75b6&style=flat" alt="tnihal94" /> </p>
 
